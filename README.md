@@ -1,9 +1,8 @@
 ## 👋 Olá, pessoal 
 
-Me chamo Joel e trabalho com tecnologia a pouco mais de 10 anos. \
-Comecei na área de  _suporte técnico_ onde consegui chegar até o nível III. Surgiu uma oportunidade e entrei na area de _análise de negócios_. Descobri, aprendi e aprendo muito nessa área. Nela trabalho provendo soluções e buscando melhorias, fazendo implantações e buscando melhorar processos. \
-Nessa área descobri a _análise de dados_ e consegui entregar alguns projetos ná area comercial, produção, recursos humanos, logistica.  
-A partir dessa descoberta, estou estudando para fazer a migração para a área de dados.
+Meu nome é Joel e atuo na área de tecnologia há mais de 10 anos. Iniciei minha carreira no suporte técnico, onde alcancei o nível III. Fui para a área de sistemas atuando como analista de negócios. Nessa função, trabalho na implementação de soluções, otimização de processos e melhorias operacionais. Foi nesse contexto que descobri a análise de dados e tive a oportunidade de desenvolver projetos nas áreas comercial, de produção, recursos humanos e logística.  
+
+Desde então, venho me aprofundando nesse campo e estou me preparando para fazer a transição para a área de dados.
 
 ## 🎓 Formação
 
